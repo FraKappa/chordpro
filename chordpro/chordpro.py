@@ -173,7 +173,7 @@ class Song:
     def userconfig(self, cfg):
         self.options.append('--userconfig=%s' % cfg)
 
-    def compile(self, target=None):
+    def compile(self):
         command = ['chordpro %s' % self.filename, '--config notes:%s' % self.notes]
         command.extend(self.options)
 
