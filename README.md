@@ -13,7 +13,7 @@ pip install pychordpro
 ## Example Usage
 
 ```py
-import pychordpro
+from pychordpro import Song
 
 song = Song(filename='mysong.cho', notes='latin')
 song.open()
