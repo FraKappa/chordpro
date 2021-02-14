@@ -1,1 +1,1 @@
-from pychordpro.chordpro import Song
+from .chordpro import Song
