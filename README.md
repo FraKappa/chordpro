@@ -30,7 +30,7 @@ song.compile()
 
 All the functions and methods are basically Python transcriptions of the [command line options](https://www.chordpro.org/chordpro/using-chordpro/) for ChordPro, so you will have to install the ChordPro file transformation program as well.
 
-However you can easily see the source code [here](https://github.com/FraKappa/pychordpro/blob/master/chordpro/chordpro.py).
+However you can easily see the source code [here](https://github.com/FraKappa/pychordpro/blob/master/pychordpro/chordpro.py).
 
 ChordPro installation guides for:
 * [Linux](https://www.chordpro.org/chordpro/chordpro-install-on-linux/)
